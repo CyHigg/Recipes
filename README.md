@@ -18,10 +18,7 @@ I built this repository because I was tired of digging through commercial recipe
 ## 📂 Repository Index
 
 ### [Cookies](./Cookies/)
-* [Signature Chocolate Chip](./Cookies/chocolate_chip.md) - The flagship S-Tier cookie.
-* [Peanut Butter](./Cookies/peanut_butter.md) - Silky texture with a "pan-bang" finish.
-* [Sugar Cookies](./Cookies/sugar_cookies.md) - High-expansion cookies with non-pareil coating.
-* [Potato Chip Cookies](./Cookies/potato_chip.md) - The ultimate savory-sweet salty crunch.
+
 
 ### [Snacks](./Snacks/)
 * *Coming Soon...*
