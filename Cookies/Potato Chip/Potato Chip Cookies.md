@@ -1,6 +1,6 @@
 # S-Tier Potato Chip Cookies
 
-A unique savory-sweet "S-Tier" cookie that utilizes crushed potato chips for a distinct salty crunch. Features an optional cinnamon-sugar "patch" for added texture.
+Description: 
 
 ---
 

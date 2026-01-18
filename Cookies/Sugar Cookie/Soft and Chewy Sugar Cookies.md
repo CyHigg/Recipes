@@ -1,6 +1,6 @@
 # Sugar Cookies
 
-A high-precision sugar cookie recipe featuring a "pancake" press technique and non-pareil coating. Optimized for convection baking with a specific focus on expansion management.
+Description: 
 
 ---
 ---
@@ -77,3 +77,6 @@ A high-precision sugar cookie recipe featuring a "pancake" press technique and n
 
 ## Media Gallery
 ![Final Cookie Form](path/to/your/image.jpg)
+
+## 📇 Index Card Placeholder
+![3x5 Index Card Graphic](path/to/your/index_card.jpg)

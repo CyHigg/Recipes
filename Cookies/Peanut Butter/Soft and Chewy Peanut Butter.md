@@ -1,6 +1,6 @@
 # Peanut Butter Cookies
 
-A precision-engineered peanut butter cookie utilizing a silky butter-base and the "pan-bang" finishing technique for optimal texture.
+Description: 
 
 ---
 ---
@@ -78,3 +78,6 @@ A precision-engineered peanut butter cookie utilizing a silky butter-base and th
 
 ## Media Gallery
 ![Final Cookie Form](path/to/your/image.jpg)
+
+## 📇 Index Card Placeholder
+![3x5 Index Card Graphic](path/to/your/index_card.jpg)

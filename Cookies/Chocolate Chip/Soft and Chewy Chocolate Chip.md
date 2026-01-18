@@ -1,6 +1,6 @@
 # Chocolate Chip Cookies
 
-A high-performance cookie recipe optimized for convection baking. This "source code" utilizes a pan-banging technique to achieve a specific flattened texture and professional finish.
+Description: 
 
 ---
 ---
@@ -76,3 +76,6 @@ A high-performance cookie recipe optimized for convection baking. This "source c
 
 ## Media Gallery
 ![Final Cookie Form](path/to/your/image.jpg)
+
+## 📇 Index Card Placeholder
+![3x5 Index Card Graphic](path/to/your/index_card.jpg)
