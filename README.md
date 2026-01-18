@@ -25,7 +25,7 @@ I built this repository because I was tired of digging through commercial recipe
 * [Potato Chip Cookies](./Cookies/Potato%20Chip/Potato%20Chip%20Cookies.md)
 
 ### [Snacks](./Snacks/)
-* *Coming Soon...*
+* [Candied Pecans](./Snacks/Candied%20Pecans.md) - Simple cinnamon-sugar glazed pecans.
 
 ### [Breads](./Breads/)
 * *Coming Soon...*
