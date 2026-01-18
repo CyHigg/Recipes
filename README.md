@@ -18,20 +18,21 @@ I built this repository because I was tired of digging through commercial recipe
 ## 📂 Repository Index
 
 ### [Cookies](./Cookies/)
-
-* [Chocolate Chip](./Cookies/Chocolate%20Chip/Soft%20and%20Chewy%20Chocolate%20Chip.md) - Soft and Chewy
-* [Peanut Butter](./Cookies/Peanut%20Butter/Soft%20and%20Chewy%20Peanut%20Butter.md) - Soft and Chewy
-* [Sugar Cookies](./Cookies/Sugar%20Cookie/Soft%20and%20Chewy%20Sugar%20Cookies.md) - Soft and Chewy
-* [Potato Chip Cookies](./Cookies/Potato%20Chip/Potato%20Chip%20Cookies.md) - Sweet and Savory Crunch
+* [Soft and Chewy Chocolate Chip](./Cookies/Chocolate%20Chip/Soft%20and%20Chewy%20Chocolate%20Chip.md)
+* [Soft and Chewy Peanut Butter](./Cookies/Peanut%20Butter/Soft%20and%20Chewy%20Peanut%20Butter.md)
+* [Soft and Chewy Sugar Cookies](./Cookies/Sugar%20Cookie/Soft%20and%20Chewy%20Sugar%20Cookies.md)
+* [Potato Chip Cookies](./Cookies/Potato%20Chip/Potato%20Chip%20Cookies.md)
 
 ### [Snacks](./Snacks/)
 * [Candied Pecans](./Snacks/Candied%20Pecans.md) - Simple cinnamon-sugar glazed pecans.
-
-### [Breads](./Breads/)
-* *Coming Soon...*
+* [Pepperoni Ball](./Snacks/Pepperoni_Ball.md) - Savory cream-cheese appetizer.
+* [Pizza Dip](./Snacks/Pizza_Dip.md) - Warm, cheesy pizza-flavored dip.
 
 ### [Main Meals](./Main_Meals/)
-* *Coming Soon...*
+* [Cajun Pasta](./Main_Meals/Cajun_Pasta.md) - Creamy pasta with chicken and sausage.
+
+### [Breads](./Breads/)
+* *Coming Soon*
 
 ---
 
