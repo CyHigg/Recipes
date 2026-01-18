@@ -19,7 +19,7 @@ I built this repository because I was tired of digging through commercial recipe
 
 ### [Cookies](./Cookies/)
 
-* [Signatue Chocolate Chip](./Cookies/Chocolate%20Chip/Soft%20and%20Chewy%20Chocolate%20Chip.md)
+* [Chocolate Chip](./Cookies/Chocolate%20Chip/Soft%20and%20Chewy%20Chocolate%20Chip.md)
 * [Peanut Butter](./Cookies/Peanut%20Butter/Soft%20and%20Chewy%20Peanut%20Butter.md)
 * [Sugar Cookies](./Cookies/Sugar%20Cookie/Soft%20and%20Chewy%20Sugar%20Cookies.md)
 * [Potato Chip Cookies](./Cookies/Potato%20Chip/Potato%20Chip%20Cookies.md)
