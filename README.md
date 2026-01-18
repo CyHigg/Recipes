@@ -25,11 +25,11 @@ I built this repository because I was tired of digging through commercial recipe
 
 ### [Snacks](./Snacks/)
 * [Candied Pecans](./Snacks/Candied%20Pecans.md) - Simple cinnamon-sugar glazed pecans.
-* [Pepperoni Ball](./Snacks/Pepperoni_Ball.md) - Savory cream-cheese appetizer.
-* [Pizza Dip](./Snacks/Pizza_Dip.md) - Warm, cheesy pizza-flavored dip.
+* [Pepperoni Ball](./Snacks/Pepperoni%20Ball.md) - Savory cream-cheese appetizer.
+* [Pizza Dip](./Snacks/Pizza%20Dip.md) - Warm, cheesy pizza-flavored dip.
 
 ### [Main Meals](./Main_Meals/)
-* [Cajun Pasta](./Main_Meals/Cajun_Pasta.md) - Creamy pasta with chicken and sausage.
+* [Cajun Pasta](./Main_Meals/Cajun%20Pasta.md) - Creamy pasta with chicken and sausage.
 
 ### [Breads](./Breads/)
 * *Coming Soon*
