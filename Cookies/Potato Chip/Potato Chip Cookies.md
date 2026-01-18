@@ -1,4 +1,4 @@
-# S-Tier Potato Chip Cookies
+# Potato Chip Cookies
 
 Description: 
 
