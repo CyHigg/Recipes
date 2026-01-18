@@ -1,4 +1,4 @@
-# Open-Source S-Tier Recipes 🍪
+# Open-Source Recipes 
 
 ### The Mission: No Ads. No Stories. Just Food.
 
@@ -11,7 +11,7 @@ I built this repository because I was tired of digging through commercial recipe
 1.  **A picture** of the final "build."
 2.  **A straightforward description** of the product.
 3.  **A shopping list** categorized for a quick grocery run.
-4.  **S-Tier Instructions**: Precise, step-by-step "source code" for your kitchen.
+4.  **To the point Instructions**: Precise, step-by-step "source code" for your kitchen.
 
 ---
 
